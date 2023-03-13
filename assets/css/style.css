@@ -122,6 +122,20 @@ h6 {
   height: 40px;
 }
 
+.call-me {
+  font-size: 14px;
+  /* display: flex; */
+  /* justify-content: center; */
+  align-items: center;
+  /* background: rgba(255, 255, 255, 0.1); */
+  color: #fff;
+  /* line-height: 1; */
+  margin-right: 8px;
+  border-radius: 20pt;
+  /* width: 150pt;
+  height: 50pt; */
+}
+
 #header .social-links a:hover {
   background: #18d26e;
 }
